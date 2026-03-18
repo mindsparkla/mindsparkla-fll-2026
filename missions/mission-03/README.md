@@ -1,8 +1,18 @@
-# Mission 01
+# 🤖 Mission 01
 
-Team members working on this mission:
-- Name 1
-- Name 2
+---
 
-Goal:
+## 👥 Team Members
+
+- Name 1  
+- Name 2  
+
+---
+
+## 🎯 Goal
+
 Describe what this mission does.
+
+Example:
+
+The robot will move forward, complete the task, and return to base safely.
