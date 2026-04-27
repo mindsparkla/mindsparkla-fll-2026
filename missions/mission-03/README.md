@@ -4,7 +4,7 @@
 
 ## 👥 Team Members
 
-- Name 1  
+- Vivian   
 - Name 2  
 
 ---
