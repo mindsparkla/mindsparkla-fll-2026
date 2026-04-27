@@ -4,10 +4,7 @@
 
 ## 👥 Team Members
 
-- Name 1  
-- Name 2  
-
----
+Haeun Cho
 
 ## 🎯 Goal
 
